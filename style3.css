@@ -94,6 +94,18 @@
   margin-bottom: 8px;
 }
 
+.site-footer {
+    text-align: center;
+    font-size: 0.85rem;
+    color: #777;
+    padding: 20px 10px;
+    background: transparent;
+}
+
+.site-footer p {
+    margin: 0;
+}
+
 .h1-spacer-under {
   margin-bottom: 15px;
 }
@@ -917,3 +929,4 @@ li h3 {
     font-size: initial;
   }
 }/*# sourceMappingURL=style.css.map */
+
